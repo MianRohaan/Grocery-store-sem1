@@ -1,0 +1,8 @@
+﻿  function2.cpp
+C:\Users\Mian Rohaan Ahsan\Desktop\12-7 2.0 - Copy\Project2\function2.cpp(327,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mian Rohaan Ahsan\Desktop\12-7 2.0 - Copy\Project2\function2.cpp(341,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mian Rohaan Ahsan\Desktop\12-7 2.0 - Copy\Project2\function2.cpp(354,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mainInt.cpp
+C:\Users\Mian Rohaan Ahsan\Desktop\12-7 2.0 - Copy\Project2\mainInt.cpp(23,52): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Mian Rohaan Ahsan\Desktop\12-7 2.0 - Copy\x64\Debug\Project2.exe
