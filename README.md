@@ -1,5 +1,5 @@
 # Grocery-store-sem1
-<h4>Problem statement in file "PF Lab Project BEE-1A1, 1B1, 1C1 & 1C2.pdf"</h4>
+<h2>Problem statement in file "PF Lab Project BEE-1A1, 1B1, 1C1 & 1C2.pdf"</h2>
 Problem:
 You have to develop an online Grocery Store. Your system should be able to store data related to the
 grocery items as well as the users. The details of the items must be maintained to develop a repository.
