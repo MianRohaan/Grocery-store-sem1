@@ -3,4 +3,5 @@
 <br>
 <b> This project is made without usage of object-oriented programming and pointers, uses static parallel arrays.</b>
 <br>
-integer N is the number of items which can be altered
+integer N is the number of items which can be altered.
+
